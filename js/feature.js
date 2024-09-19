@@ -10,7 +10,7 @@ document.getElementById('btn-show-cash-out')
 });
 
 
-// show add money form and hide the cash out form
+// show add money form and hide the cash out form.
 document.getElementById('btn-show-add-money')
     .addEventListener('click', function(){
 
